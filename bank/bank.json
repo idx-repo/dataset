@@ -1,0 +1,716 @@
+[
+    {
+        "name": "Bank Rakyat Indonesia (BRI)",
+        "code": "002",
+        "contact": "8080",
+        "link": "https:\/\/bri.co.id\/",
+        "category": "domestic"
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "008",
+        "contact": "14000",
+        "link": "https:\/\/bankmandiri.co.id\/",
+        "category": "domestic"
+    },
+    {
+        "name": "Bank Negara Indonesia (BNI)",
+        "code": "009",
+        "contact": "1 500 046",
+        "link": "https:\/\/www.bni.co.id\/",
+        "category": "domestic"
+    },
+    {
+        "name": "Bank Tabunngan Negara (BTN)",
+        "code": "200",
+        "contact": "1 500 286",
+        "link": "https:\/\/www.btn.co.id\/",
+        "category": "domestic"
+    },
+    {
+        "name": "Bank Central Asia (BCA)",
+        "code": "014",
+        "contact": "1 500 888",
+        "link": "https:\/\/www.bca.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank BCA Syariah",
+        "code": "536",
+        "contact": "1 500 888",
+        "link": "https:\/\/www.bcasyariah.co.id\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Bank Syariah Indonesia (BSI)",
+        "code": "451",
+        "contact": "14040",
+        "link": "https:\/\/bankbsi.co.id\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Bank Tabungan Pensiun Nasional (BTPN)",
+        "code": "213",
+        "contact": "1 500 300",
+        "link": "https:\/\/www.btpn.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Tabungan Pensiun Nasional Syariah (BTPN Syariah)",
+        "code": "547",
+        "contact": "021 1500 300",
+        "link": "https:\/\/www.btpnsyariah.com\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Link Aja",
+        "code": "911",
+        "contact": "118",
+        "link": "#",
+        "category": "other"
+    },
+    {
+        "name": "Indosat Dompetku",
+        "code": "789",
+        "contact": "3000",
+        "link": "#",
+        "category": "other"
+    },
+    {
+        "name": "Bank Aladin",
+        "code": "947",
+        "contact": "021 8550 0947",
+        "link": "https:\/\/aladinbank.id\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Bank Bukopin Syariah",
+        "code": "521",
+        "contact": "1 500 666",
+        "link": "https:\/\/www.syariahbukopin.co.id\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Bank Jabar Banten Syariah (bjb Syariah)",
+        "code": "425",
+        "contact": "1 500 727",
+        "link": "https:\/\/www.bjbsyariah.co.id\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Bank Muamalat",
+        "code": "147",
+        "contact": "1 500 016",
+        "link": "https:\/\/www.bankmuamalat.co.id\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Bank Panin Dubai Syariah",
+        "code": "517",
+        "contact": "021 6313 700",
+        "link": "https:\/\/www.paninbanksyariah.co.id\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Bank Mega Syariah",
+        "code": "506",
+        "contact": "021 2985 2222",
+        "link": "https:\/\/www.megasyariah.co.id\/",
+        "category": "sharia"
+    },
+    {
+        "name": "Citibank",
+        "code": "031",
+        "contact": "021 252 9999",
+        "link": "https:\/\/www.citibank.co.id\/",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank ANZ",
+        "code": "061",
+        "contact": "0804 1000 269",
+        "link": "https:\/\/institutional.anz.com\/markets\/indonesia\/id",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank Capital",
+        "code": "054",
+        "contact": "021 2793 8989",
+        "link": "https:\/\/www.bankcapital.co.id\/id",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank Commonwealth",
+        "code": "950",
+        "contact": "1 500 030",
+        "link": "https:\/\/www.commbank.co.id\/",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank DBS",
+        "code": "046",
+        "contact": "1 500 327",
+        "link": "https:\/\/www.dbs.id\/",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank HSBC",
+        "code": "087",
+        "contact": "1 500 700",
+        "link": "https:\/\/www.hsbc.co.id\/",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank IBK",
+        "code": "945",
+        "contact": "1 500 978",
+        "link": "#",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank of China",
+        "code": "069",
+        "contact": "021 5200 986",
+        "link": "https:\/\/www.bankofchina.co.id",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank Shinhan",
+        "code": "152",
+        "contact": "1 500 881",
+        "link": "https:\/\/www.shinhan.co.id\/",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank Woori Saudara",
+        "code": "212",
+        "contact": "1 500 012",
+        "link": "https:\/\/www.bankwoorisaudara.com\/",
+        "category": "foreign"
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "050",
+        "contact": "021 5799 9988",
+        "link": "https:\/\/www.sc.com\/",
+        "category": "foreign"
+    },
+    {
+        "name": "Bank BJB",
+        "code": "110",
+        "contact": "14049",
+        "link": "https:\/\/www.bankbjb.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank DKI",
+        "code": "111",
+        "contact": "1500-351",
+        "link": "https:\/\/bankdki.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank BPD D.I.Y",
+        "code": "112",
+        "contact": "1500061",
+        "link": "https:\/\/www.bpddiy.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Jateng",
+        "code": "113",
+        "contact": "14066",
+        "link": "https:\/\/www.bankjateng.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Jatim",
+        "code": "114",
+        "contact": "14044",
+        "link": "https:\/\/www.bankjatim.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Jambi",
+        "code": "115",
+        "contact": "021-22057556",
+        "link": "https:\/\/bankjambi.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Aceh",
+        "code": "116",
+        "contact": "1500845",
+        "link": "https:\/\/www.bankaceh.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Sumut",
+        "code": "117",
+        "contact": "14002",
+        "link": "https:\/\/www.banksumut.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Nagari (Sumbar)",
+        "code": "118",
+        "contact": "150234",
+        "link": "https:\/\/www.banknagari.co.id\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank BRKSyariah (Bank Riau Kepri)",
+        "code": "119",
+        "contact": "1500 470",
+        "link": "https:\/\/www.brksyariah.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Sumsel and Babel",
+        "code": "120",
+        "contact": "1500 711",
+        "link": "https:\/\/www.banksumselbabel.com\/",
+        "category": "regional"
+    },
+    {
+        "name": "Bank BPR Eka Bumi Artha",
+        "code": "867",
+        "contact": "-",
+        "link": "#",
+        "category": "other"
+    },
+    {
+        "name": "Bank BPR Danagung Abadi",
+        "code": "028",
+        "contact": "-",
+        "link": "#",
+        "category": "other"
+    },
+    {
+        "name": "Bank BPR Danagung Bakti",
+        "code": "028",
+        "contact": "-",
+        "link": "#",
+        "category": "other"
+    },
+    {
+        "name": "Bank BPR Danagung Ramulti",
+        "code": "028",
+        "contact": "-",
+        "link": "#",
+        "category": "other"
+    },
+    {
+        "name": "Bank BPR Karyajatnika Sadaya",
+        "code": "688",
+        "contact": "022 4556 600",
+        "link": "https:\/\/bprks.co.id\/",
+        "category": "other"
+    },
+    {
+        "name": "Bank BPR Supra Artapersada",
+        "code": "600",
+        "contact": "0266 237 070",
+        "link": "http:\/\/www.bprsupra.co.id\/",
+        "category": "other"
+    },
+    {
+        "name": "Allo Bank",
+        "code": "567",
+        "contact": "080 4110 4110",
+        "link": "https:\/\/www.allobank.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Bumi Arta",
+        "code": "076",
+        "contact": "021 2300 455",
+        "link": "https:\/\/www.bankbba.co.id\/bumiarta\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank CIMB Niaga",
+        "code": "022",
+        "contact": "14041",
+        "link": "https:\/\/www.cimbniaga.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "011",
+        "contact": "1 500 090",
+        "link": "https:\/\/www.danamon.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Ganesha",
+        "code": "161",
+        "contact": "1 500 169",
+        "link": "https:\/\/www.bankganesha.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Bank ICBC Indonesia",
+        "code": "164",
+        "contact": "1 500 198",
+        "link": "www.icbc.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Bank Ina Perdana",
+        "code": "513",
+        "contact": "021 3483 1766",
+        "link": "https:\/\/www.bankina.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Index Selindo",
+        "code": "555",
+        "contact": "1 500 670",
+        "link": "https:\/\/bankindex.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Jago",
+        "code": "542",
+        "contact": "1 500 746",
+        "link": "https:\/\/jago.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Jtrust",
+        "code": "095",
+        "contact": "1 500 615",
+        "link": "https:\/\/www.jtrustbank.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank KB Bukopin.",
+        "code": "441",
+        "contact": "14005",
+        "link": "https:\/\/www.bukopin.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank KEB Hana",
+        "code": "484",
+        "contact": "1 500 021",
+        "link": "http:\/\/www.hanabank.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Mandiri Taspen Pos",
+        "code": "564",
+        "contact": "14024",
+        "link": "https:\/\/www.bankmantap.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Maybank Indonesia",
+        "code": "016",
+        "contact": "1 500 611",
+        "link": "https:\/\/www.maybank.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Mayora",
+        "code": "553",
+        "contact": "021 5696 6954",
+        "link": "https:\/\/www.bankmayora.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Mega",
+        "code": "426",
+        "contact": "1 500 010",
+        "link": "https:\/\/www.bankmega.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Mestika Dharma",
+        "code": "151",
+        "contact": "14083",
+        "link": "https:\/\/www.bankmestika.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank MNC Internasional Tbk",
+        "code": "485",
+        "contact": "1 500 188",
+        "link": "https:\/\/mncbank.co.id\/id",
+        "category": "private"
+    },
+    {
+        "name": "Bank National Nobu",
+        "code": "503",
+        "contact": "1 500 278",
+        "link": "https:\/\/www.nobubank.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Neo Commerce",
+        "code": "490",
+        "contact": "1 500 190",
+        "link": "https:\/\/www.bankneocommerce.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank OCBC NISP",
+        "code": "028",
+        "contact": "1 500 999",
+        "link": "https:\/\/www.ocbcnisp.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank of India Indonesia",
+        "code": "146",
+        "contact": "021 3500007",
+        "link": "https:\/\/www.boiindonesia.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Oke Indonesia",
+        "code": "526",
+        "contact": "021 2312 633",
+        "link": "https:\/\/www.okbank.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Panin",
+        "code": "019",
+        "contact": "1 500 678",
+        "link": "https:\/\/www.panin.co.id\/id",
+        "category": "private"
+    },
+    {
+        "name": "Bank Permata",
+        "code": "013",
+        "contact": "1 500 111",
+        "link": "https:\/\/www.permatabank.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank QNB Indonesia",
+        "code": "167",
+        "contact": "021 5155 155",
+        "link": "https:\/\/qnb.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Raya",
+        "code": "494",
+        "contact": "1 500 494",
+        "link": "https:\/\/bankraya.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Sahabat Sampoerna",
+        "code": "523",
+        "contact": "1 500 035",
+        "link": "https:\/\/www.banksampoerna.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Seabank Indonesia",
+        "code": "535",
+        "contact": "1 500 130",
+        "link": "https:\/\/www.seabank.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Sinarmas",
+        "code": "153",
+        "contact": "1 500 153",
+        "link": "https:\/\/www.banksinarmas.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Tabungan Pensiunan Nasional",
+        "code": "213",
+        "contact": "1 500 300",
+        "link": "https:\/\/www.btpn.com",
+        "category": "private"
+    },
+    {
+        "name": "Bank UOB Indonesia",
+        "code": "023",
+        "contact": "14008",
+        "link": "https:\/\/www.uob.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Altopay",
+        "code": "700",
+        "contact": "14017",
+        "link": "altopay.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Bank Artha Graha",
+        "code": "037",
+        "contact": "0 800 191 8880",
+        "link": "https:\/\/www.arthagraha.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Chinatrust Indonesia",
+        "code": "949",
+        "contact": "0807 1 221111",
+        "link": "https:\/\/www.ctbcbank.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Jasa Jakarta",
+        "code": "472",
+        "contact": "021 690 2611",
+        "link": "https:\/\/www.bjj.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Maspion",
+        "code": "157",
+        "contact": "031 5316999",
+        "link": "https:\/\/www.bankmaspion.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank BCA Digital (Bank Royal)",
+        "code": "501",
+        "contact": "021 62864472",
+        "link": "https:\/\/www.royalbank.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank SBI Indonesia (Indomonex)",
+        "code": "498",
+        "contact": "0 800 1724 636",
+        "link": "https:\/\/www.sbiindo.com\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank Victoria International",
+        "code": "566",
+        "contact": "1 500 977",
+        "link": "https:\/\/www.victoriabank.co.id\/",
+        "category": "private"
+    },
+    {
+        "name": "Bank CNB",
+        "code": "559",
+        "contact": "1 800 4923 221",
+        "link": "#",
+        "category": "private"
+    },
+    {
+        "name": "Bank Harda International",
+        "code": "567",
+        "contact": "021 3841178",
+        "link": "#",
+        "category": "private"
+    },
+    {
+        "name": "Bank MUFG",
+        "code": "042",
+        "contact": "021 3049 9399",
+        "link": "https:\/\/www.mufg.co.id",
+        "category": "foreign"
+    },
+    {
+        "name": "Amar Bank",
+        "code": "531",
+        "contact": "031 9901 5959",
+        "link": "https:\/\/amarbank.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Bank Banten",
+        "code": "137",
+        "contact": "1500 410",
+        "link": "https:\/\/www.bankbanten.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank BPD Bali",
+        "code": "129",
+        "contact": "1500 844",
+        "link": "https:\/\/www.bpdbali.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank CCB Indonesia",
+        "code": "036",
+        "contact": "-",
+        "link": "https:\/\/idn.ccb.com",
+        "category": "other"
+    },
+    {
+        "name": "Bank Kalbar",
+        "code": "123",
+        "contact": "0561 732148",
+        "link": "https:\/\/bankkalbar.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Kaltimtara",
+        "code": "124",
+        "contact": "1500 124",
+        "link": "https:\/\/bankaltimtara.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Kalteng",
+        "code": "125",
+        "contact": "1500 526",
+        "link": "https:\/\/bankkalteng.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Maluku Malut",
+        "code": "131",
+        "contact": "0807 1500 500",
+        "link": "https:\/\/www.bankmalukumalut.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Mayapada",
+        "code": "097",
+        "contact": "1500 029",
+        "link": "https:\/\/www.bankmayapada.com",
+        "category": "private"
+    },
+    {
+        "name": "Bank Murtiarta Sentosa",
+        "code": "548",
+        "contact": "1500 011",
+        "link": "https:\/\/bankmas.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Bank Papua",
+        "code": "132",
+        "contact": "1500 138",
+        "link": "https:\/\/www.bankpapua.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Sulsebar",
+        "code": "126",
+        "contact": "1500 855",
+        "link": "https:\/\/banksulselbar.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Victoria Syariah",
+        "code": "405",
+        "contact": "021 5672 771",
+        "link": "https:\/\/bankvictoriasyariah.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Prima Master Bank",
+        "code": "520",
+        "contact": "031 353 1253",
+        "link": "https:\/\/www.primamasterbank.co.id",
+        "category": "foreign"
+    }
+]
